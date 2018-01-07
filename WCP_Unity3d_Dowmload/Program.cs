@@ -5,6 +5,7 @@ using WCP_Unity3d_Dowmload.Properties;
 
 namespace WCP_Unity3d_Dowmload
 {
+	//CopyRight 孤之界 2018/01
 	internal static class Program
 	{
 		public static string Save_Path = "";
